@@ -14,7 +14,7 @@ int main(void)
 	printf("%lu, ", i);
 
 	while (count == 50)
-	{ 
+	{
 		if (count == 50)
 		{
 			printf("%lu\n", j);

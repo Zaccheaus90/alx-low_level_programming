@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - Entry point 
+ * main - Entry point
  * write a program that prints Holberton, followed by a new line.
  * Return: Always (Success)
  */
